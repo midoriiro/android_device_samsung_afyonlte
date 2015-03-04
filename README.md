@@ -9,3 +9,15 @@ and type
 ```
 repo sync
 ```
+
+On your local repository use these command (and not cyanogenmod local repository):
+
+pull the repository:
+```
+git pull origin cm-10.1
+```
+
+push the repository
+```
+git push origin cm-10.1
+```
