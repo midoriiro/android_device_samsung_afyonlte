@@ -18,7 +18,7 @@ git pull https://github.com/midoriiro/android_device_samsung_afyonlte.git
 ```
 ## Sync with your local repository
 
-On your local repository use these command (and not cyanogenmod local repository):
+On your local repository use these command (and not from cyanogenmod local repository):
 
 pull the repository:
 ```
