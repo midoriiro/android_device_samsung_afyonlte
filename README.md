@@ -5,7 +5,7 @@ add to your .repo/manifest.xml this entry:
 <project path="device/samsung/afyonlte" name="midoriiro/android_device_samsung_afyonlte" />
 ```
 
-and type
+and type this for clone the repository after commit/pushing or just for cloning
 ```
 repo sync
 ```
